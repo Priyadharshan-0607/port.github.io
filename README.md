@@ -1,9 +1,9 @@
-# Portfolio - [Tufan Kundu](https://www.linkedin.com/in/tufan-kundu-577945221/)
+# Portfolio - Priyadharshan
 
 ## Overview
 This repository contains the source code for the personal portfolio website of Tufan Kundu, a Data Scientist and Machine Learning Practitioner. The website showcases professional experience, certifications, technical skills, and a collection of data science and machine learning projects.
 
-**Click to visit Live Site:** [https://kindo-tk.github.io/tk.github.io/](https://kindo-tk.github.io/tk.github.io/)
+
 
 ## Folder Structure
 The project follows a standard static website structure:
